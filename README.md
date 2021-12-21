@@ -2,6 +2,10 @@
 
 You just push the nearest button and the mouse will move in a rectangle shape for 40 minutes and will prevent the computer to go to slepp & when you press the second button it will reboot the Pico and will stop the program.
 
+![](https://media.giphy.com/media/oXhDgN6gquOyFSNBqb/giphy.gif)
+
+
+
 ### You will need those parts to build your new friend:
 - Raspberry Pi Pico
 - Jumper wires (4 exactly)
