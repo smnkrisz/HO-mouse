@@ -1,6 +1,6 @@
-## You can say that this tool will be the new "Man's best friend". Or should we say Man's best friend for Home Office work?
+## You can say that this tool will be the new "Man's best friend". Or should we say Man's best friend for Home Office?
 
-You just push the nearest button and the mouse will move in a rectangle shape for 40 minutes & when you press the second button it will reboot the Pico and will stop the program.
+You just push the nearest button and the mouse will move in a rectangle shape for 40 minutes and will prevent the computer to go to slepp & when you press the second button it will reboot the Pico and will stop the program.
 
 ### You will need those parts to build your new friend:
 - Raspberry Pi Pico
@@ -8,7 +8,7 @@ You just push the nearest button and the mouse will move in a rectangle shape fo
 - 2 pcs tactile button
 - USB cabel to connect to PC
 - Breadboard
-> of course you can build it with PCB if you like soldering
+> Of course you can build it with PCB if you like soldering
 
 
 
@@ -37,3 +37,9 @@ Connect the "**START**" button:
 
 Connect the "**RESET**" button:
 ![](/pictures/pico3.png)
+
+
+### Mine looks like this: 
+> I painted the RESET button red to differentiate.
+
+![](/pictures/final_pico.jpg)
