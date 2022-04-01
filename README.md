@@ -26,7 +26,7 @@ You just push the nearest button and the mouse will move in a rectangle shape fo
 2. Push and hold the BOOTSEL button while connecting the your Pico to computer. 
 3. Copy the downloaded UF2 file to the Pico (will see it as **RPI-RP2**). It will reboot and will appear as **CIRCUITPY**.
 4. Git clone the [HO-mouse repo](https://github.com/smnkrisz/HO-mouse).
-5. Copy **lib** and **code.py** to your Pico and overwrite the existing files.
+5. Copy **lib**, **boot.py** and **code.py** to your Pico and overwrite the existing files.
 6. Unplug and plug in the Pico to reboot it.
 
 ### Now you connect Pico, breadboard, jumper wires and buttons together:
