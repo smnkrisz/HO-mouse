@@ -40,7 +40,7 @@ Connect the "**START**" button:
 ![](/pictures/pico2.png)
 
 Connect the "**RESET**" button:
-![](/pictures/pico3.png)
+![](/pictures/Pico3.png)
 
 
 ### Mine looks like this: 
