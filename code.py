@@ -23,22 +23,15 @@ mouse_pause = 120
 while True:
     if button.value:
         for number in range(5):
-            led_onboard.value = True
-            mouse.move(x=-mouse_move)
-            led_onboard.value = False
+            
+            mouse.move(x=-mouse_move)            
             time.sleep(mouse_pause)
 
-            led_onboard.value = True
             mouse.move(y=-mouse_move)
-            led_onboard.value = False
             time.sleep(mouse_pause)
 
-            led_onboard.value = True
             mouse.move(x=mouse_move)
-            led_onboard.value = False
             time.sleep(mouse_pause)
 
-            led_onboard.value = True
             mouse.move(y=mouse_move)
-            led_onboard.value = False
             time.sleep(mouse_pause)
